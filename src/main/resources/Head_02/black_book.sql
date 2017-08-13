@@ -1,0 +1,1 @@
+SELECT * FROM gregs_list.black_book;

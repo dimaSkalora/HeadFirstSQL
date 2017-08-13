@@ -1,0 +1,1 @@
+SELECT * FROM headfirstsql.easy_drinks;

@@ -1,0 +1,13 @@
+drink_name,cost,carbs,color,ice,calories
+Blackthorn,3.00,8.40,yellow,Y,33
+"Blue Moon",2.50,3.20,blue,Y,12
+"Oh My Gosh",3.50,8.60,orange,Y,35
+"Lime Fizz",2.50,5.40,green,Y,24
+"Kiss on the Lips",5.50,42.50,purple,Y,171
+"Hot Gold",3.20,32.10,orange,N,135
+"Lone Tree",3.60,4.20,red,Y,17
+Greyhound,4.00,14.00,yellow,Y,50
+"Indian Summer",2.80,7.20,brown,N,30
+"Bull Frog",2.60,21.50,tan,Y,80
+"Soda and It",3.80,4.70,red,N,19
+"Slim Shady",4.35,NULL,clear,Y,NULL
