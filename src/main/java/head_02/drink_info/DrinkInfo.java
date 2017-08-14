@@ -49,7 +49,7 @@ public class DrinkInfo extends JFrame{
 
         table.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
         setSize(700,600);
-        setPreferredSize(new Dimension(550,600));
+        setPreferredSize(new Dimension(500,600));
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setResizable(false);
