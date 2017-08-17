@@ -1,0 +1,18 @@
+contact_id,last_name,first_name,email,gender,birthday,profession,location,status,interests,seeking
+35,Anderson,Jillian,"jill_anderson@ 
+breakneckpizza.com",F,1980-09-05,"Technical Writer","Palo Alto, CA",single,"kayaking, reptiles","relationship, friends"
+36,Kenton,Leo,lkenton@starbuzzcoffee.com,M,1974-01-10,Manager,"San Francisco, CA",divorced,women,"women to date"
+37,McGavin,Darrin," captainlove@headfirsttheater.com",M,1966-01-23,"Cruise Ship Captain","San Diego, CA",single,"sailing, fishing, yachting","women for casual relationships"
+38,Franklin,Joe,joe_franklin@leapinlimos.com,M,1977-04-28,"Software Sales","Dallas, TX",married,"fishing, drinking","new job"
+39,Hamilton,Jamie,dontbother@starbuzzcoffee.com,F,1964-09-10,"System Administrator","Princeton, NJ",married,RPG,nothing
+40,Chevrolet,Maurice,bookman4u@objectville.net,M,1962-07-01,"Bookshop Owner","Mountain View, CA",married,"collecting books, scuba diving",friends
+41,Kroger,Renee,poorrenee@mightygumball.net,F,1976-12-03,Unemployed,"San Francisco, CA",divorced,cooking,employment
+42,Mendoza,Angelina,angelina@starbuzzcoffee.com,F,1979-08-19,"UNIX Sysadmin","San Francisco, CA",married,"acting, dancing","new job"
+43,Murphy,Donald,padraic@tikibeanlounge.com,M,1967-01-23,"Computer Programmer","New York City, NY","committed relationsh","RPG, anime",friends
+44,Spatner,John,jpoet@objectville.net,M,1963-04-18,Salesman,"Woodstock, NY",married,"poetry, screenwriting",nothing
+45,Toth,Anne,Anne_Toth@leapinlimos.com,F,1969-11-18,Artist,"San Fran, CA",NULL,NULL,NULL
+46,Manson,Anne,am86@objectville.net,F,1977-08-09,Baker,"Seattle, WA",NULL,NULL,NULL
+47,Hardy,Anne,anneh@b0tt0msup.com,F,1963-04-18,Teacher,"San Fran, CA",NULL,NULL,NULL
+48,Parker,Anne,annep@starbuzzcoffee.com,F,1983-01-10,Student,"San Fran, CA",NULL,NULL,NULL
+49,Blunt,Anne,anneblunt@breakneckpizza.com,F,1959-10-09,"Web Designer","San Fran, CA",NULL,NULL,NULL
+50,Jacobs,Anne,anne99@objectville.net,F,1968-02-05,"Computer Programmer","San Jose, CA",NULL,NULL,NULL
