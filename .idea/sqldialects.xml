@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_01/doughnut_list.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_01/my_contacts.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/black_book.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/doughnut_ratings.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/drink_info.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/easy_drinks.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_01/doughnut_list/doughnut_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_01/my_contacts/my_contacts.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/black_book/black_book.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/doughnut_ratings/doughnut_ratings.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/drink_info/drink_info.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_02/easy_drinks/easy_drinks.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/Head_03/clown_info.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_04/fish_info.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_04/fish_records.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_04/my_contacts_id.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/car_table.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/hooptie.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/my_contacts_city.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/my_contacts_phone.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/project_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_04/fish_info/fish_info.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_04/fish_records/fish_records.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_04/my_contacts_id/my_contacts_id.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/car_table/car_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/hooptie/hooptie.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/my_contacts_/my_contacts_city.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/my_contacts_/my_contacts_phone.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_05/project_list/project_list.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_06/cookie_sales/cookie_sales.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_06/movie_table_/movie_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_06/movie_table_/movie_table_demo.sql" dialect="MySQL" />
   </component>
 </project>
