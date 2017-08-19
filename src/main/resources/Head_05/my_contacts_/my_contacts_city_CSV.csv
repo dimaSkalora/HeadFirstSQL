@@ -1,0 +1,18 @@
+contact_id,last_name,first_name,phone,email,gender,birthday,profession,city,state,status,interests,seeking
+35,Anderson,Jillian,NULL,"jill_anderson@ 
+breakneckpizza.com",F,1980-09-05,"Technical Writer","Palo Alt",CA,single,"kayaking, reptiles","relationship, friends"
+36,Kenton,Leo,NULL,lkenton@starbuzzcoffee.com,M,1974-01-10,Manager,"San Fran",CA,divorced,women,"women to date"
+37,McGavin,Darrin,NULL," captainlove@headfirsttheater.com",M,1966-01-23,"Cruise Ship Captain","San Dieg",CA,single,"sailing, fishing, yachting","women for casual relationships"
+38,Franklin,Joe,NULL,joe_franklin@leapinlimos.com,M,1977-04-28,"Software Sales","Dallas, ",TX,married,"fishing, drinking","new job"
+39,Hamilton,Jamie,NULL,dontbother@starbuzzcoffee.com,F,1964-09-10,"System Administrator",Princeto,NJ,married,RPG,nothing
+40,Chevrolet,Maurice,NULL,bookman4u@objectville.net,M,1962-07-01,"Bookshop Owner",Mountain,CA,married,"collecting books, scuba diving",friends
+41,Kroger,Renee,NULL,poorrenee@mightygumball.net,F,1976-12-03,Unemployed,"San Fran",CA,divorced,cooking,employment
+42,Mendoza,Angelina,NULL,angelina@starbuzzcoffee.com,F,1979-08-19,"UNIX Sysadmin","San Fran",CA,married,"acting, dancing","new job"
+43,Murphy,Donald,NULL,padraic@tikibeanlounge.com,M,1967-01-23,"Computer Programmer","New York",NY,"committed relationsh","RPG, anime",friends
+44,Spatner,John,NULL,jpoet@objectville.net,M,1963-04-18,Salesman,Woodstoc,NY,married,"poetry, screenwriting",nothing
+45,Toth,Anne,NULL,Anne_Toth@leapinlimos.com,F,1969-11-18,Artist,"San Fran",CA,NULL,NULL,NULL
+46,Manson,Anne,NULL,am86@objectville.net,F,1977-08-09,Baker,"Seattle,",WA,NULL,NULL,NULL
+47,Hardy,Anne,NULL,anneh@b0tt0msup.com,F,1963-04-18,Teacher,"San Fran",CA,NULL,NULL,NULL
+48,Parker,Anne,NULL,annep@starbuzzcoffee.com,F,1983-01-10,Student,"San Fran",CA,NULL,NULL,NULL
+49,Blunt,Anne,NULL,anneblunt@breakneckpizza.com,F,1959-10-09,"Web Designer","San Fran",CA,NULL,NULL,NULL
+50,Jacobs,Anne,NULL,anne99@objectville.net,F,1968-02-05,"Computer Programmer","San Jose",CA,NULL,NULL,NULL
