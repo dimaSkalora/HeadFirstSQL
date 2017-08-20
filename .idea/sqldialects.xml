@@ -24,6 +24,11 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/Head_07/super_heroes/super_heroes.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/Head_08/boys/boys.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/Head_08/boys/boys_demo.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_08/my_contact_id/profession.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_08/my_contact_id/seeking.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_08/my_contact_id/status.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/Head_08/toys/toys.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_09/job_current.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Head_10/clown/clown_boss.sql" dialect="MySQL" />
   </component>
 </project>
