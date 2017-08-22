@@ -1,0 +1,7 @@
+movie_id,title,rating,drama,comedy,action,gore,scifi,for_kids,cartoon,published
+1,"Корпорация монстров",G,N,Y,N,N,N,Y,Y,2002-06-03
+2,"Крестный отец",R,N,N,Y,Y,N,N,N,2001-02-05
+3,"Унесение ветром",G,Y,N,N,N,N,N,N,1999-11-20
+4,"Американський пирог",R,N,Y,N,N,N,N,N,2003-04-19
+5,"Кошмар на улице Вязов",R,N,N,Y,Y,N,N,N,2003-04-19
+6,Косабланка,P,Y,N,N,N,N,N,N,2001-02-05
