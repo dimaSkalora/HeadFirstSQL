@@ -1,0 +1,6 @@
+CREATE TABLE seeking
+(
+ seeking_id INT(11) NOT NULL AUTO_INCREMENT,
+ seeking VARCHAR(100) DEFAULT NULL,
+ PRIMARY KEY(seeking_id)
+)
