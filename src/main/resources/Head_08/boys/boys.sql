@@ -1,0 +1,6 @@
+CREATE TABLE `boys` (
+  `boy_id` int(11) NOT NULL AUTO_INCREMENT,
+  `boy` varchar(20) DEFAULT NULL,
+  `toy_id` int(11) DEFAULT NULL,
+  PRIMARY KEY (`boy_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=latin1
