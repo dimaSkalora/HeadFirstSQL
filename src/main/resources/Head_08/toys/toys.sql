@@ -1,0 +1,5 @@
+CREATE TABLE `toys` (
+  `toy_id` int(11) NOT NULL AUTO_INCREMENT,
+  `toy` varchar(20) DEFAULT NULL,
+  PRIMARY KEY (`toy_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=latin1
