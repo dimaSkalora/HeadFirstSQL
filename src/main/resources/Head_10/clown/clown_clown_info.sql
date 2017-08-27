@@ -5,4 +5,5 @@ CREATE TABLE clown_clown_info
  boss_id INT NOT NULL,
  PRIMARY KEY(id),
  FOREIGN KEY (boss_id) REFERENCES clown_boss(boss_id)
+
 )
