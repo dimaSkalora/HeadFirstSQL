@@ -1,6 +1,7 @@
 package head_03.clown_info;
 
 public class Info {
+
     private String name;
     private String last_seen;
     private String appearance;

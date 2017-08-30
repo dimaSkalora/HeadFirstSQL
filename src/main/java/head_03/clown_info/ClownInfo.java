@@ -39,7 +39,6 @@ public class ClownInfo extends JFrame{
     JButton btn_deleteRow = new JButton("DeleteRow");
 
 
-
     public ClownInfo(){
         // --------ПОДКЛЮЧЕНИЕ К БАЗЕ ДАННЫХ--------
         conn = null;

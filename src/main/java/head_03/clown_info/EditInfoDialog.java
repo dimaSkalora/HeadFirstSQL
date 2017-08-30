@@ -135,18 +135,18 @@ public class EditInfoDialog extends JDialog implements ActionListener {
     // Обработка нажатий кнопок
     public void actionPerformed(ActionEvent ae) {
         String action = ae.getActionCommand();
-        // Если нажали кнопку SAVE (сохранить изменения) - запоминаем этой
+        //Если нажали кнопку SAVE (сохранить изменения) - запоминаем этой
         save = SAVE.equals(action);
-        // Закрываем форму
+        //Закрываем форму
         setVisible(false);
     }
 
-    // Надо ли сохранять изменения
+    //Надо ли сохранять изменения
     public boolean isSave() {
         return save;
     }
 
-    // Создаем контакт из заполенных полей, который можно будет записать
+    //Создаем контакт из заполенных полей, который можно будет записать
     public Info getContact() {
         Info info = new Info(txtFirstName.getText(),
                 txtLastName.getText(), txtPhone.getText(), txtEmail.getText());
