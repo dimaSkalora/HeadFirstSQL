@@ -1,0 +1,1 @@
+INSERT INTO my_contacts (last_name, first_name, email, gender, birthday, profession, location, status, interests, seeking) VALUES ('Anderson','Jillian','jill_anderson@ \nbreakneckpizza.com','F','1980-09-05','Technical Writer','Palo Alto, CA','single','kayaking, reptiles','relationship, friends');
