@@ -1,0 +1,7 @@
+CREATE TABLE your_table
+(
+id INT NOT NULL AUTO_INCREMENT,
+fint_name VARCHAR(20),
+iast_name VARCHAR(30),
+PRIMARY KEY (id)
+)
