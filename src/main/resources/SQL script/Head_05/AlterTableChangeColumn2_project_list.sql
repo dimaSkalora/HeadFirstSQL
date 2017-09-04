@@ -1,0 +1,3 @@
+ALTER TABLE project_list 
+CHANGE COLUMN descriptionofproj proj_desc VARCHAR(120),
+CHANGE COLUMN CONTRACTORONJOB con_name VARCHAR(130);
