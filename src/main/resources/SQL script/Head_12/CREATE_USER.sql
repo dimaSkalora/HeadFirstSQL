@@ -1,0 +1,2 @@
+CREATE USER elsie
+IDENTIFIED BY 'elsie123';

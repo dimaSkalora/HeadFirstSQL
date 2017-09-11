@@ -1,0 +1,1 @@
+DROP ROLE data_entry;

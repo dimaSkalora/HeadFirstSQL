@@ -1,0 +1,1 @@
+REVOKE SELECT ON clown_clown_info FROM elsie;
